@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dslvu7p1ua1t5"]
+
+[resource]
+emission_enabled = true
+emission = Color(0.8277407, 0.85804504, 0.722979, 1)
+emission_energy_multiplier = 5.36
+emission_on_uv2 = true
+refraction_enabled = true
+refraction_scale = 0.55
